@@ -32,7 +32,7 @@ stream.start_stream()
 #while stream.is_active():
 #    time.sleep(0.1)
 
-time.sleep(10)
+time.sleep(20)
 
 stream.stop_stream()
 stream.close()
